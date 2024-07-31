@@ -2,4 +2,7 @@
 satya 
 sadadtfh
 mbssn
-this is merge conflict
+
+this is a merge conflict by satya
+
+
